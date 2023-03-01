@@ -168,3 +168,72 @@
    line-height: 28px;
    color: rgba(255, 255, 255, 0.8);
 }
+
+@media (max-width: 1200px) {
+
+
+.contact-info{
+   margin-right: 20px;
+}
+
+   .nav-list-pages a img{
+      max-width: 65px;
+   }
+
+
+   .contact-info-links{
+      min-width: 410px;
+      max-width: 500px;
+      /* margin-top: 0%; */
+   }
+
+   .one{
+      font-size: 30px;
+      line-height: 10px;
+      
+   }
+   
+   .two{
+      font-size: 20px;
+      line-height: 20px;
+      
+   }
+   
+   .contact-info-link{
+
+      margin: 30px 0px;
+   }
+   
+   .contact-info-link img{
+      width: 40px;
+   }
+   
+   .link-info{
+      display: flex;
+      flex-direction: column;
+      text-align: left;
+      margin-left: 15px;
+   }
+   
+   
+   .link-info-tittle{
+      font-size: 20px;
+      line-height: 20px;
+      margin-bottom: 5px;
+   
+   }
+   
+   .link-info-text{
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 20px;
+      color: rgba(255, 255, 255, 0.8);
+   }
+
+   .contact-map img{
+      width: 350px;
+      height: 100%;
+   }
+}
