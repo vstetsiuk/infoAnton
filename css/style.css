@@ -169,7 +169,8 @@
    color: rgba(255, 255, 255, 0.8);
 }
 
-@media (max-width: 1200px) {
+
+@media (max-width: 1400px) {
 
 
 .contact-info{
@@ -177,35 +178,35 @@
 }
 
    .nav-list-pages a img{
-      max-width: 65px;
+      max-width: 75px;
    }
 
 
    .contact-info-links{
-      min-width: 410px;
+      min-width: 470px;
       max-width: 500px;
       /* margin-top: 0%; */
    }
 
    .one{
-      font-size: 30px;
+      font-size: 35px;
       line-height: 10px;
       
    }
    
    .two{
-      font-size: 20px;
+      font-size: 22px;
       line-height: 20px;
       
    }
    
    .contact-info-link{
 
-      margin: 30px 0px;
+      margin: 40px 0px;
    }
    
    .contact-info-link img{
-      width: 40px;
+      width: 50px;
    }
    
    .link-info{
@@ -233,7 +234,7 @@
    }
 
    .contact-map img{
-      width: 350px;
+      width: 450px;
       height: 100%;
    }
 }
